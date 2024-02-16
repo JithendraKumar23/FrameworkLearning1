@@ -10,7 +10,7 @@ import org.testng.Reporter;
 
 public class HomePage {
 	
-	//Declaration
+	//Declaration.
 	@FindBy(xpath = "//a[text()='Logout']")
 	private WebElement logoutBtn;
 	
